@@ -1,1 +1,1 @@
-# Fractal-7-Triangle
+# Fractal-7-Triangle (H/W)
