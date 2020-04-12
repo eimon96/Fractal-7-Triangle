@@ -1,7 +1,9 @@
 # Fractal-7-Triangle (H/W)
 
+7_HWKoch_Triangle_Colored :
 
+![ ](https://i.imgur.com/eeXiqUh.png)
 
+DRAFT 7_HWKoch LINE :
 
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/BWcMo8m"><a href="//imgur.com/a/BWcMo8m">Fractal-7-Triangle</a></blockquote>
+![ ](https://i.imgur.com/GCl3BRw.png)
